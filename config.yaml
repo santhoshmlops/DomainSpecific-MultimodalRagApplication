@@ -1,0 +1,27 @@
+# Configuration for Multimodal Rag Application Processing
+textsplitter:  
+  chunk_size : 512
+  chunk_overlap : 50
+  separators : ["\n", "\n\n"]
+  
+model:
+  model_path: "model/Skai-gemma-2b-it-SFT-GGUF/Skai-gemma-2b-it-SFT.Q4_K_M.gguf" 
+  temperature : 0.3
+  max_tokens : 2048
+  top_p : 1
+  n_ctx : 2048
+  verbose : True
+# GPU Processing
+  n_gpu_layers : -1
+  n_threads : 6
+  n_batch : 512
+
+# Ollama Model
+  ollama : gemma:2b
+
+embeddings : 
+  model_name : "model/bge-large-en-v1.5"
+  model_kwargs : {"device": "cpu"}
+  encode_kwargs : {"normalize_embeddings": True}
+# GPU Processing
+  # model_kwargs: {"device": "cuda:0"}
