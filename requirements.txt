@@ -1,0 +1,14 @@
+# Install necessary libraries
+streamlit
+streamlit-option-menu
+langchain
+langchain-community
+PyPDF2
+faiss-cpu
+beautifulsoup4
+youtube-transcript-api
+ctransformers
+transformers
+InstructorEmbedding
+llama-cpp-python
+sentence-transformers
