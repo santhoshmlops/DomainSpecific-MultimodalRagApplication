@@ -60,6 +60,9 @@ The recommended system requirements for this project are:
 
 
 # How to Download and Run Project?
+
+https://github.com/santhoshmlops/DomainSpecific-MultimodalRagApplication/assets/133121635/36f60825-ed4e-44d4-a13a-3d2d969ad3fa
+
 ### You will need to copy and paste the following code into your terminal :
 
 ### STEP 01 - Clone this repository:
