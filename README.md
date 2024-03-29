@@ -73,11 +73,11 @@ git clone https://github.com/santhoshmlops/DomainSpecific-MultimodalRagApplicati
 ### STEP 02 - Create a conda environment or python environment:
 
 ```bash
-conda create -n venv python=3.11 -y
+conda create -p venv python=3.11 -y
 ```
 
 ```bash
-conda activate venv
+conda activate venv/
 ```
 or
 
