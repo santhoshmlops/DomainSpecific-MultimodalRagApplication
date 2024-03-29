@@ -67,7 +67,7 @@ This step takes some time to clone this Repository and download the required dep
 
 Dependency model and embeddings file size - 5Gb. 
 ```bash
-https://github.com/santhoshmlops/DomainSpecific-MultimodalRagApplication.git && cd DomainSpecific-MultimodalRagApplication && bash setup.sh
+git clone https://github.com/santhoshmlops/DomainSpecific-MultimodalRagApplication.git && cd DomainSpecific-MultimodalRagApplication && bash setup.sh
 ```
 
 ### STEP 02 - Create a conda environment or python environment:
