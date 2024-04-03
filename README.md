@@ -1,5 +1,8 @@
 # Domain-Specific Multimodal Rag Application
-This project is a versatile tool designed to provide users with interactive assistance across various modes of content, including text-based chat, PDF documents, websites, and YouTube videos. Leveraging Streamlit for its user interface, multimodal analysis techniques to offer tailored responses and recommendations to user queries. This application supports both CPU and GPU processing for model inference and offers model selection, allowing users to choose between different pre-trained models.
+
+The project aims to improve the performance of the RAG (Retrieval-Augmented Generation) model, a state-of-the-art natural language processing architecture, by fine-tuning it with domain-specific data. RAG combines the power of retrieval-based and generative models to provide contextually relevant responses to queries. However, to optimize its performance in specific domains, such as healthcare, finance, or legal, fine-tuning with domain-specific question-and-answer pairs is essential. This project involves collecting relevant data in the form of Q&A pairs, preprocessing it, and incorporating it into the training process of the RAG model. By doing so, the model can better understand and generate accurate responses within the chosen domain, thus enhancing its utility and effectiveness in real-world applications.
+
+This Application is a versatile tool designed to provide users with interactive assistance across various modes of content, including text-based chat, PDF documents, websites, and YouTube videos. Leveraging Streamlit for its user interface, multimodal analysis techniques to offer tailored responses and recommendations to user queries. This application supports both CPU and GPU processing for model inference and offers model selection, allowing users to choose between different pre-trained models.
 
 ## Application User Interfaces:
 
