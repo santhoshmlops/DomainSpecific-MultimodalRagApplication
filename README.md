@@ -11,8 +11,6 @@ https://github.com/santhoshmlops/DomainSpecific-MultimodalRagApplication/assets/
 ## Application Inferencing:
 https://github.com/santhoshmlops/DomainSpecific-MultimodalRagApplication/assets/133121635/2b9abd30-2342-4bfd-b8ea-d57d70d8bea6
 
-
-
 # Hugging Face Models:
 
 ### Fine-tune Gemma 2B-it for QLoRa Quantization via Supervised Fine Tuning
