@@ -21,8 +21,6 @@ https://github.com/santhoshmlops/DomainSpecific-MultimodalRagApplication/assets/
 
 
 
-
-
 # Key Features
 
 ### Conversational Chatbot
